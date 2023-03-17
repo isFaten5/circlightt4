@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\AppDev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\reference-0.4.3+1\\android\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\2022\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\AppDev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\reference-0.4.3+1\\android\\.cxx\\Debug\\5l266741\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\2022\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\AppDev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\reference-0.4.3+1\\android\\.cxx\\Debug\\5l266741\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "reference::@6890427a1f51a3e7e1df": {
+      "artifactName": "reference",
+      "abi": "x86_64",
+      "output": "C:\\AppDev\\AppDevelopment\\App\\Sprint-2-version\\build\\reference\\intermediates\\cxx\\Debug\\5l266741\\obj\\x86_64\\libreference.so",
+      "runtimeFiles": []
+    }
+  }
+}
